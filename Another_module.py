@@ -2,4 +2,4 @@ def greeting():
     return "Hello!"
 
 def get_abuse():
-    return "you are awful!"
+    return "you are DREADFUL!"
